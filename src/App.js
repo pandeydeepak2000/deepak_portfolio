@@ -43,7 +43,7 @@ function App() {
           <div className='left-section'>
             <h2 className='heading2'>{'Contact'.toUpperCase()}</h2>
             <span className='content'>Deepak Pandey</span>
-            <span className='content'>+918521410815</span>
+            <span className='content'>+918541926334</span>
             <span className='content'>pandeydeepakcse123@gmail.com</span>
           </div>
           <div className='left-section'>
